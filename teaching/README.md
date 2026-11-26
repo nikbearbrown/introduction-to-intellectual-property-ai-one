@@ -1,0 +1,3 @@
+# Teaching this draft
+
+Start with the [source notes](sources.md), then read the [chapter index](../chapters/README.md). For a short seminar, ask learners to inventory the project before naming rights, then have them critique a partner's proposed release memo. The [dossier](../practice/release-dossier.md) gives a proposed independent assessment with an optional model-feedback step and a paper equivalent. The [key](../practice/answer-key.md) scores specificity, reasoning, and appropriate referral. This sequence is a suggestion, not an adopted syllabus or a substitute for institution-specific legal and privacy policies.
